@@ -24,7 +24,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  image_picker: ^0.6.7
+  image_picker: any
   
   image: ^2.1.4
 
